@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Badhan Chakroborty</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=badhanck88&label=Profile%20views&color=0e75b6&style=flat" alt="badhanck88" /> </p>
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.chawtechsolutions.com%2Fresources%2F&psig=AOvVaw3kEnNoPOVwPVAGJlqjWRQv&ust=1696318422816000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjSh-js1oEDFQAAAAAdAAAAABAJ
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badhanck88" alt="badhanck88" /></a> </p>
 
